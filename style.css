@@ -1,0 +1,95 @@
+h1{
+  font-size: 40px;
+  font-family: Paltino, serif;
+  color: #579390;
+  text-align: center;
+  text-shadow: 1px 2px #000;
+  margin-bottom: -10px;
+  }
+  button {
+      background-color: #579390;
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin-left: 250px;
+  }
+button:hover{
+  color:#f00;
+  font-style: italic;
+  }
+#phone{
+  font-size: 20px;
+  font-family: Paltino, serif;
+  text-align: center;
+  padding: 2px 2px -15px 2px;
+  margin-bottom: -10px;
+
+}
+#email{
+  font-size: 20px;
+  font-family: Paltino, serif;
+  text-align: center;
+  margin-bottom: 50px;
+  padding: -10px 2px 2px 2px;
+}
+body{
+background-color: lightgray;
+color: #000;
+font-family: Paltino, serif;
+font-size: 15px;
+margin:50px 150px;
+}
+
+.header{
+  margin-bottom: 50px;
+
+}
+.subtitle{
+  font-size: 20px;
+  border-radius: 50%;
+  background-color: darkgrey;
+  color: #000;
+  box-shadow: 2px 2px #000;
+  text-align: center;
+  margin-top: 50px;
+}
+#management{
+  Background-color: #a1afc6;
+  color: #000;
+  border-radius: 10px;
+  font-size: 18px;
+  box-shadow: 2px 1px #000;
+  width: 150px;
+  height: 30px;
+  text-align: center;
+
+}
+#customer-service{
+  background-color: #a1afc6;
+  color: #000;
+  border-radius: 10px;
+  font-size: 18px;
+  box-shadow: 2px 1px #000;
+  width: 150px;
+  height: 30px;
+  text-align: center;
+
+}
+a{
+  color: #579390;
+}
+#footer{
+  position: relative;
+  border-radius: 5px;
+  height: 50px;
+  width: 300px;
+  background-color: darkgray;
+  color: #000;
+  clear: both;
+  display: inline;
+  text-align: center;
+  font-size: 15px;
